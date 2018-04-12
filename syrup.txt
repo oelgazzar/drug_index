@@ -1,0 +1,156 @@
+alerid, antihistamine / steroid
+allvent, cough
+alveolin, cough
+alveolin-P, cough
+alzental, antiparasitic
+bendax, antiparasitic
+averozolid, antibiotic
+amrizole, antibiotic
+augmentin, antibiotic
+avipect, cough
+apidone, antihistamine / steroid
+bronchopro, cough
+brufen, analgesic / antipyretic
+brufen flu, common cold
+bambedil, bronchial asthma
+babetone, cough
+bacticlor, antibiotic
+balsam, cough
+bronchicum, cough
+cetal, analgesic / antipyretic
+claritine, antihistamine / steroid
+curam, antibiotic
+ceclor, antibiotic
+cetafen, analgesic / antipyretic
+amoxil, antibiotic
+antiver, antiparasitic
+cetrak, antihistamine / steroid
+cefzil, antibiotic
+desa, antihistamine / steroid
+bisolvon, cough
+baby rhino, common cold
+duricef, antibiotic
+evalex, supplements
+elbavit, supplements
+ceporex, antibiotic
+cabella, cough
+catafly, analgesic / antipyretic
+epicozym, supplements
+fluvermal, antiparasitic
+flumox, antibiotic
+flagyl, antibiotic
+codilar, cough
+cyrinol, cough
+gast-reg, colic
+dexaphen, antihistamine / steroid
+decal B12, supplements
+duphlac, laxative
+diax, diarrhea
+diakam m, diarrhea
+dinar, antibiotic
+di-ease, indigestion
+enrich, supplements
+evastine, antihistamine / steroid
+epicophylline, bronchial asthma
+epicogel, GERD / peptic ulcer
+farcotilium, antiemetic
+farcotilium, GERD / peptic ulcer
+motilium, GERD / peptic ulcer
+gaviscon, GERD / peptic ulcer
+guava, cough
+guaflex, cough
+genuphil, osteoarthritis
+grandvit, supplements
+histazine, antihistamine / steroid
+hibiotic, antibiotic
+digenorm, indigestion
+dolo-D, common cold
+hi-cal, supplements
+isoprinosine, antiviral
+isilin, cough
+ivypront, cough
+immulant, immunity
+lorano, antihistamine / steroid
+levohistam, antihistamine / steroid
+levcet, antihistamine / steroid
+mucosol, cough
+muco, cough
+megafen, analgesic / antipyretic
+contafever, analgesic / antipyretic
+neobronchophane, cough
+nanazoxide, diarrhea
+nitazode, diarrhea
+notussil, cough
+ibidroxil, antibiotic
+ketoti, bronchial asthma
+klacid, antibiotic
+kapect, diarrhea
+l-carnitine, supplements
+maxilase, trauma
+laxolac, laxative
+megamox, antibiotic
+mucogel, GERD / peptic ulcer
+mucophylline, cough
+maxical D, supplements
+magsilon, GERD / peptic ulcer
+maxdinir, antibiotic
+neo michaelon, common cold
+nono water, colic
+noerosive, GERD / peptic ulcer
+osteocare, supplements
+osipect, cough
+octovent, cough
+octovent, bronchial asthma
+oplex, cough
+omnicef, antibiotic
+probric, bronchial asthma
+pedical, supplements
+rhinotuss, cough
+rhinopro, common cold
+rotahelex, cough
+rimactane, antibiotic
+sansovit, supplements
+septrin, antibiotic
+simethictone, colic
+tegretol, antiepileptic
+telfast, antihistamine / steroid
+pectipro, cough
+penta mix, cough
+penta flu, common cold
+penta flu, cough
+paramol, analgesic / antipyretic
+salbovent, bronchial asthma
+sycocetam, antiepileptic
+sina dry, cough
+sina wet, cough
+sinuc, cough
+suprax, antibiotic
+sine up, common cold
+silver seas, supplements
+streptoquin, diarrhea
+streptoquin, antibiotic
+stimulan, nootropic
+terhexine, cough
+timogen, colic
+tempra, analgesic / antipyretic
+xilone, antihistamine / steroid
+predsol, antihistamine / steroid
+triaminic, common cold
+triaminic, cough
+ultrasolv, cough
+unasyn, antibiotic
+unictam, antibiotic
+uripan, nocturnal enuresis
+visceralgin, colic
+viscera, colic
+ventolin, bronchial asthma
+velocef, antibiotic
+ventocough, cough
+vitaferol, supplements
+vendexine, antihistamine / steroid
+phenadone, antihistamine / steroid
+dexaphen, antihistamine / steroid
+vermizole, antiparasitic
+zinacef, antibiotic
+zaditen, bronchial asthma
+zithromax, antibiotic

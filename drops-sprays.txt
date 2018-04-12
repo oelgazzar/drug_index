@@ -1,0 +1,42 @@
+cataflam, analgesic / antipyretic
+corasone, hypotension
+effortil, hypotension
+cetal, analgesic / antipyretic
+dolphin K, analgesic / antipyretic
+deltarhino, common cold
+dentinox, colic
+enrich, supplements
+hydroferrin, supplements
+mucosolvon, cough
+rhinostop, common cold
+simethicone, colic
+selgon, cough
+trileptal, antiepileptic
+vidrops, supplements
+zyrtec, antihistamine / steroid
+marimer, nasal decongestant
+physiomer, nasal decongestant
+unimer, nasal decongestant
+orex, mouth wash
+ventolin, bronchial asthma
+vental comp, bronchial asthma
+seretide, bronchial asthma
+ambroxol, cough
+augmentin, antibiotic
+baby rest, colic
+bronchopro, cough
+bebevit, supplements
+bisolvon, cough
+B.B.C, oral analgesic
+mycostatin, antifungal
+fungistatin, antifungal
+otrivin, nasal decongestant
+polyvital, supplements
+avamys, nasal corticosteroid
+nasonex, nasal corticosteroid
+allerdep, nasal corticosteroid
+flix, bronchial asthma
+flixotide, bronchial asthma
+flixonase, bronchial asthma
+rhinocort, nasal corticosteroid
+symbicort, bronchial asthma
